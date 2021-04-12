@@ -36,8 +36,8 @@
 
 ### Запуск в Docker
 
-1. docker build -t test_birthday_list .
-2. docker run test_birthday_list
+1. docker build -t <название> .
+2. docker run <название>
 
 -------------------------------------
 
