@@ -1,6 +1,6 @@
 import pytest
 import requests
-from consts_and_variables import *
+from tests.consts_and_variables import *
 import datetime as DT
 from datetime import datetime
 from funcs.birthday_list_api_helper import *
